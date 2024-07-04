@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    background-color: #00a8ff;
+  }
+.main{
+    display:block;
+    justify-content: center;
+    text-align: center;
+    height: 200px;
+    width: 100;
+}
+h2{
+    font-size: xx-large;
+    padding-bottom: 50px;
+}
+.main > div{
+    padding: 10px;
+    font-size:x-large;
+}
+.main>div>input{
+    height:30px;
+    width: 200px;
+}
+.main>button{
+    height:30px;
+    width: 70px;
+}
+.main>p{
+    padding-bottom: 150px;
+    font-size: large;
+}
